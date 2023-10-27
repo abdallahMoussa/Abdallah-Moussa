@@ -1,4 +1,4 @@
-# Hello, I'm [Abdallah Moussa Mohamed] 👋
+# Hello, I'm Abdallah Moussa Mohamed 👋
 
 Welcome to my GitHub profile! I'm a passionate [Frontend Developer] with a love for [React Js]. I'm always exploring new horizons and learning from the vast world of programming.
 
