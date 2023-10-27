@@ -40,7 +40,8 @@ I'm always open to exciting opportunities and collaborations. If you have an int
 
 I'm looking forward to connecting with fellow developers, sharing knowledge, and working on exciting projects together. Don't hesitate to get in touch!
 
-[![LinkedIn](https://www.linkedin.com/in/abdallah-moussa/)
-[![WhatsApp] +20 112 712 4302
-[![Phone] +20 109 080 2294
+- [LinkedIn](https://www.linkedin.com/in/abdallah-moussa/)
+- [WhatsApp] +20 112 712 4302
+- [Phone] +20 109 080 2294 
+
 
