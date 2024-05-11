@@ -6,6 +6,7 @@ Welcome to my GitHub profile! I'm a passionate Frontend Developer with a love fo
 
 - 🔭 I'm currently working as a Full-stack freelance Developer.
 - 🌱 I had worked as a Frontend Developer at OCD digital services.
+- - 🔭 I'm currently working as a Frontend Developer at 4explain Company.
 - 👯 I love collaborating with other developers and contributing to open-source projects.
 - 📫 You can reach me at abdallah.moussa2017@gmail.com
       or connect with me on [LinkedIn](https://www.linkedin.com/in/abdallah-moussa/).
